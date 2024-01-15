@@ -1,0 +1,201 @@
+body {
+    background-color: white margin: 100px;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.main {
+    background-color: black;
+    width: 1000px;
+    height: 1000px;
+
+}
+
+#heading {
+    color: beige;
+    display: flex;
+
+
+}
+
+h1 {
+    font-size: 100px;
+    width: 400px;
+    margin-left: 20px;
+}
+
+#up {
+    margin-left: 470px;
+    font-size: 30px;
+    color: rgb(255, 98, 0);
+    font-weight: 600;
+
+}
+
+#down {
+    margin-left: 475px;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 0%;
+    position: relative;
+    top: -50px;
+}
+
+#middle {
+    color: beige;
+    position: relative;
+    top: -100px;
+    margin-left: 25px;
+}
+
+#mid1 {
+    color: beige;
+    font-size: 25px;
+    width: 510px;
+    font-weight: 500;
+}
+
+#mid2 {
+    color: rgb(255, 98, 0);
+    font-size: 25px;
+    width: 510px;
+    position: relative;
+    left: 45px;
+    top: -55px;
+    font-weight: 500;
+}
+
+#bottom {
+    display: flex;
+}
+
+#box {
+    background-color: rgb(255, 98, 0);
+    width: 500px;
+    height: 310px;
+    position: relative;
+    left: 20px;
+    top: -160px;
+}
+
+#textbox {
+    color: beige;
+    font-weight: 200;
+    font-size: 18px;
+    position: relative;
+    left: 10px;
+}
+
+#textbox2 {
+    color: beige;
+    font-weight: 200;
+    font-size: 18px;
+    position: relative;
+    left: 10px;
+    top: -15px;
+}
+
+#rate {
+    color: beige;
+    position: relative;
+    top: 110px;
+    left: 10px;
+    font-size: 20px;
+}
+
+#num {
+    color: beige;
+    font-size: 100px;
+    position: relative;
+    top: -115px;
+    left: 62px;
+}
+
+#pa {
+    color: beige;
+    font-size: 20px;
+    position: relative;
+    top: -270px;
+    left: 350px;
+}
+
+#rtext {
+    color: beige;
+    position: relative;
+    left: 60px;
+    top: -215px;
+    font-size: 40px;
+}
+
+#rtext2 {
+    color: rgb(255, 98, 0);
+    position: relative;
+    left: 90px;
+    top: -310px;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+#th {
+    color: rgb(255, 98, 0);
+    position: relative;
+    top: -480px;
+    left: 160px;
+    font-size: 40px;
+}
+
+#Jan {
+    background-color: rgb(255, 98, 0);
+    width: 150px;
+    height: 20px;
+    position: relative;
+    top: -500px;
+    left: 80px
+}
+
+#Jan1 {
+    color: beige;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+#Jan2 {
+    background-color: rgb(255, 98, 0);
+    width: 150px;
+    height: 20px;
+    position: relative;
+    top: -410px;
+    left: 80px
+}
+
+#Jan3 {
+    color: beige;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+#rtext3 {
+    color: rgb(255, 98, 0);
+    position: relative;
+    left: 90px;
+    top: -610px;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+#th1 {
+    color: rgb(255, 98, 0);
+    position: relative;
+    top: -780px;
+    left: 180px;
+    font-size: 40px;
+}
+
+#to {
+    color: beige;
+    position: relative;
+    left: 160px;
+    top: -80px;
+    font-size: 40px;
+}
